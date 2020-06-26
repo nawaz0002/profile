@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "profileName": "Nawazish",
+        "userName": "Nawaz",
+        "profileImage": "nawaz.jpg",
+        "post": "this is first post",
+        "profileUrl":"first.jpg",
+        "time": "27th june 2020",
+        "likes": 1
+    },
+    {
+        "id":1,
+        "profileName": "Lucky Ali",
+        "userName": "lucky",
+        "profileImage": "lucky.jpg",
+        "post": "this is lucky post",
+        "profileUrl":"second.jpg",
+        "time": "20th may 2020",
+        "likes": 1
+    },
+    {
+        "id":1,
+        "profileName": "John Doe",
+        "userName": "John",
+        "profileImage": "john.jpg",
+        "post": "this is john post",
+        "profileUrl":"third.jpg",
+        "time": "2nd june 2020",
+        "likes": 1
+    }
+]
