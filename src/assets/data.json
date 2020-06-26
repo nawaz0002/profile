@@ -10,7 +10,7 @@
         "likes": 1
     },
     {
-        "id":1,
+        "id":2,
         "profileName": "Lucky Ali",
         "userName": "lucky",
         "profileImage": "lucky.jpg",
@@ -20,8 +20,48 @@
         "likes": 1
     },
     {
-        "id":1,
+        "id": 3,
         "profileName": "John Doe",
+        "userName": "John",
+        "profileImage": "john.jpg",
+        "post": "this is john post",
+        "profileUrl":"third.jpg",
+        "time": "2nd june 2020",
+        "likes": 1
+    },
+    {
+        "id": 4,
+        "profileName": "John Doe 4",
+        "userName": "John",
+        "profileImage": "john.jpg",
+        "post": "this is john post",
+        "profileUrl":"third.jpg",
+        "time": "2nd june 2020",
+        "likes": 1
+    },
+    {
+        "id": 5,
+        "profileName": "John Doe 5",
+        "userName": "John",
+        "profileImage": "john.jpg",
+        "post": "this is john post",
+        "profileUrl":"third.jpg",
+        "time": "2nd june 2020",
+        "likes": 1
+    },
+    {
+        "id": 6,
+        "profileName": "John Doe 6",
+        "userName": "John",
+        "profileImage": "john.jpg",
+        "post": "this is john post",
+        "profileUrl":"third.jpg",
+        "time": "2nd june 2020",
+        "likes": 1
+    },
+    {
+        "id": 7,
+        "profileName": "John Doe 7",
         "userName": "John",
         "profileImage": "john.jpg",
         "post": "this is john post",
